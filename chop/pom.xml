@@ -79,11 +79,11 @@
 
     <archaius.version>0.5.12</archaius.version>
     <blitz4j.version>1.31</blitz4j.version>
-    <fastxml.version>2.3.0</fastxml.version>
+    <fastxml.version>2.9.5</fastxml.version>
     <guava.version>15.0</guava.version>
     <guice.version>3.0</guice.version>
     <guicyfig.version>3.3</guicyfig.version>
-    <jackson.version>2.1.5</jackson.version>
+    <jackson.version>2.9.5</jackson.version>
     <jersey.version>1.18.1</jersey.version>
 
     <jetty.plugin.version>9.1.2.v20140210</jetty.plugin.version>
@@ -103,7 +103,7 @@
     <jsch.version>0.1.50</jsch.version>
 
     <!-- Use Vaadin 7.0.x. See for details: CHOP-72 - Vaadin 7.1.x problem - UI doesn't show. -->
-    <vaadin.version>7.0.7</vaadin.version>
+    <vaadin.version>7.6.0</vaadin.version>
   </properties>
 
   <modules>
