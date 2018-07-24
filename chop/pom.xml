@@ -83,7 +83,7 @@
     <guava.version>15.0</guava.version>
     <guice.version>3.0</guice.version>
     <guicyfig.version>3.3</guicyfig.version>
-    <jackson.version>2.1.5</jackson.version>
+    <jackson.version>2.9.5</jackson.version>
     <jersey.version>1.18.1</jersey.version>
 
     <jetty.plugin.version>9.1.2.v20140210</jetty.plugin.version>
@@ -380,7 +380,7 @@
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-archiver</artifactId>
-        <version>2.4.4</version>
+        <version>2.10</version>
       </dependency>
 
       <dependency>
