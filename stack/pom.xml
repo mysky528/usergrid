@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.usergrid</groupId>
@@ -1161,7 +1161,7 @@
             <dependency>
                 <groupId>org.mindrot</groupId>
                 <artifactId>jbcrypt</artifactId>
-                <version>0.3m</version>
+                <version>0.4</version>
             </dependency>
 
             <dependency>
