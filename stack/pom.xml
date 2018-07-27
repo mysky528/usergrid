@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.usergrid</groupId>
@@ -99,7 +99,7 @@
 
         <amber-version>0.22-incubating</amber-version>
         <astyanax.version>3.9.0</astyanax.version>
-        <aws.version>1.10.20</aws.version>
+        <aws.version>1.11.371</aws.version>
         <cassandra-version>1.2.18</cassandra-version>
         <guava.version>18.0</guava.version>
         <guice.version>4.0-beta5</guice.version>
