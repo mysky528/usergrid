@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.usergrid</groupId>
@@ -98,7 +98,7 @@
         <!-- =================================================================== -->
 
         <amber-version>0.22-incubating</amber-version>
-        <astyanax.version>3.9.0</astyanax.version>
+        <astyanax.version>3.10.0</astyanax.version>
         <aws.version>1.10.20</aws.version>
         <cassandra-version>1.2.18</cassandra-version>
         <guava.version>18.0</guava.version>
@@ -246,7 +246,7 @@
             <dependency>
                 <groupId>commons-collections</groupId>
                 <artifactId>commons-collections</artifactId>
-                <version>3.2.1</version>
+                <version>3.2.2</version>
             </dependency>
 
             <dependency>
@@ -782,7 +782,7 @@
             <dependency>
                 <groupId>org.jsoup</groupId>
                 <artifactId>jsoup</artifactId>
-                <version>1.6.0</version>
+                <version>1.8.3</version>
             </dependency>
 
 
