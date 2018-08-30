@@ -79,7 +79,7 @@
 
     <archaius.version>0.5.12</archaius.version>
     <blitz4j.version>1.31</blitz4j.version>
-    <fastxml.version>2.3.0</fastxml.version>
+    <fastxml.version>2.9.5</fastxml.version>
     <guava.version>15.0</guava.version>
     <guice.version>3.0</guice.version>
     <guicyfig.version>3.3</guicyfig.version>
