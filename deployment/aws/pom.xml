@@ -216,7 +216,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk</artifactId>
-            <version>1.9.7</version>
+            <version>1.11.461</version>
         </dependency>
         <dependency>
             <artifactId>groovy-all</artifactId>
