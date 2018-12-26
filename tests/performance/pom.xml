@@ -53,9 +53,9 @@
 		<encoding>UTF-8</encoding>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<gatling.version>2.1.7</gatling.version>
+		<gatling.version>2.2.0</gatling.version>
         <gatling.plugin.version>2.1.7</gatling.plugin.version>
-		<gatling-highcharts.version>2.1.7</gatling-highcharts.version>
+		<gatling-highcharts.version>2.2.0</gatling-highcharts.version>
 
 		<scala-maven-plugin.version>3.2.2</scala-maven-plugin.version>
 	</properties>
