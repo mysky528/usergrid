@@ -179,7 +179,7 @@
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt</artifactId>
-            <version>0.6.0</version>
+            <version>0.9.1</version>
         </dependency>
 
         <dependency>
@@ -219,7 +219,7 @@
         <dependency>
             <groupId>org.glassfish.jersey.media</groupId>
             <artifactId>jersey-media-json-jackson</artifactId>
-            <version>2.21</version>
+            <version>2.26</version>
         </dependency>
 
         <!--<dependency>-->
@@ -446,7 +446,7 @@
             <groupId>com.relayrides</groupId>
             <artifactId>pushy</artifactId>
             <!-- The sha in the version is the git commit used in this build.  Check out the pushy source, then this commit to build the library locally -->
-            <version>0.4</version>
+            <version>0.5</version>
         </dependency>
 
         <dependency>
