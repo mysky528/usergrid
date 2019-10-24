@@ -446,7 +446,7 @@
             <groupId>com.relayrides</groupId>
             <artifactId>pushy</artifactId>
             <!-- The sha in the version is the git commit used in this build.  Check out the pushy source, then this commit to build the library locally -->
-            <version>0.4</version>
+            <version>0.5</version>
         </dependency>
 
         <dependency>
