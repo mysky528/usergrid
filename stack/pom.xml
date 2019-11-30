@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.usergrid</groupId>
@@ -119,7 +119,7 @@
         <snakeyaml-version>1.9</snakeyaml-version>
         <tomcat-version>7.0.64</tomcat-version>
         <antlr.version>3.4</antlr.version>
-        <tika.version>1.4</tika.version>
+        <tika.version>1.18</tika.version>
         <mockito.version>1.10.8</mockito.version>
         <io.apigee.gcm.version>1.0.1</io.apigee.gcm.version>
 
