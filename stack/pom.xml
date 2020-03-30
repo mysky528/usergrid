@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.usergrid</groupId>
@@ -240,7 +240,7 @@
             <dependency>
                 <groupId>commons-codec</groupId>
                 <artifactId>commons-codec</artifactId>
-                <version>1.4</version>
+                <version>1.13</version>
             </dependency>
 
             <dependency>
