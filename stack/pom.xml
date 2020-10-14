@@ -22,7 +22,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>16</version>
-        <relativePath></relativePath>
+        <relativePath/>
     </parent>
 
     <groupId>org.apache.usergrid</groupId>
@@ -888,7 +888,7 @@
             <dependency>
                 <groupId>jline</groupId>
                 <artifactId>jline</artifactId>
-                <version>0.9.94</version>
+                <version>1.0</version>
             </dependency>
 
 
