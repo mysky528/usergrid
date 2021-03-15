@@ -103,7 +103,7 @@
     <jsch.version>0.1.50</jsch.version>
 
     <!-- Use Vaadin 7.0.x. See for details: CHOP-72 - Vaadin 7.1.x problem - UI doesn't show. -->
-    <vaadin.version>7.0.7</vaadin.version>
+    <vaadin.version>7.7.23</vaadin.version>
   </properties>
 
   <modules>
